@@ -1,4 +1,4 @@
-public class Main {
+public class Program3 {
     public static void main(String[] args) {
         int completedProblems = 27;
         double reportValue = completedProblems;
