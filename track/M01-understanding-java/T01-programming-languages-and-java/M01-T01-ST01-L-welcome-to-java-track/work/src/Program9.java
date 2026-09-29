@@ -29,5 +29,7 @@ public class Program9 {
         System.out.println("Name: " + s2.name);
         System.out.println("Course: " + s2.course);
         System.out.println("Java Score: " + s2.javaScore);
+
+        sc.close();
     }
 }
